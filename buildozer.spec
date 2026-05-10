@@ -1,4 +1,3 @@
-[app]
 title = VIP Wallet
 package.name = vipwallet
 package.domain = org.test
