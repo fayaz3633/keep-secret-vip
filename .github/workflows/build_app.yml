@@ -22,3 +22,4 @@ jobs:
         with:
           name: VIP_Wallet_APK
           path: bin/*.apk
+          
